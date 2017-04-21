@@ -1,0 +1,69 @@
+.mycontent-left {
+	border-right: 1px solid #333;
+}
+
+.footer .fa {
+	font-size: 32px;
+	color: #8c8c8c;
+}
+
+.fa-facebook-square:hover {
+	color: #3b5998;
+}
+
+.fa-instagram:hover {
+	color: #b30086;
+}
+
+.info .fa {
+	font-size: 25px;
+}
+
+.logobutton:hover {
+	opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.logobutton {
+	padding: 30px;
+}
+
+.logo {
+	padding: 3% 15%;
+}
+
+p {
+	padding: 3px;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
+body {
+	font-family: 'Dosis', sans-serif;
+}
+
+img.flag-active {
+	margin: -8px 6px 8px 6px;
+	opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+
+img.flag-inactive {
+	margin: -8px 6px 8px 6px;
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.flag-element {
+	display: inline-block;
+}
+
+span.tab-space {
+	padding-left:1em;
+}
+
+.address {
+	margin-top: 20px;
+}
